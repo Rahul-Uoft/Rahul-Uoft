@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Rahul Gopeesingh and I'm in the final week of STA302
 
 <!--
 **Rahul-Uoft/Rahul-Uoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
